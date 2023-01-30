@@ -48,7 +48,7 @@ To deploy this project
 
 
 ```bash
-   C:\Users\username>cd {here past the path of the file}
+   C:\Users\username>cd {here paste the path of the file}
 ```
 
 * Run the server(i am runnig it using uvicorn)

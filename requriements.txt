@@ -1,0 +1,9 @@
+json
+pytorch
+fastapi
+transformers
+pydantic
+numpy
+cuda
+tqdm
+nlkt

@@ -63,4 +63,4 @@ To deploy this project
 this is a HTML and javascript Based UI for the deployment of the project
 
 ## A side Note
-this is a self project and my fisrt Project of this scale if you are see this please help me to better this project.
+this is a self project and my first Project of this scale if you are see this please help me to better this project.

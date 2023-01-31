@@ -33,7 +33,7 @@ To run the project, you'll need the following libraries:
 - Torch
 - cuda
 - nlkt
-- uvicorn (For runing the server you also use different services)
+- uvicorn (For runing the server you can also use different services)
 
  
 ## Training The model
